@@ -1,0 +1,39 @@
+#firstParagraph {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-style: dotted;
+}
+
+#secondParagraph {
+    font-family: Courier New, Courier, monospace;
+    border-style: dotted;
+}
+
+img.imageResize {
+    height: 50px;
+    width: 50px;
+    padding: 5px;
+}
+
+.roll {
+    background-image:url(http://cdn.exstreamist.com/wp-content/uploads/2016/09/watch-alabama-crimson-tide-online.jpg);
+    height: 800px;
+    width: 1600px;
+    margin: 20px 20px;
+}
+
+.rock {
+    color: aqua;
+    text-align: center;
+    line-height: 50px;
+}
+
+#nike {
+    height: 500px;
+    width: 500px;
+    float: right;
+    margin: 15px 15px;
+}
+
+#friends { 
+    border-radius: 30px;
+}
